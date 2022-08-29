@@ -1,0 +1,63 @@
+body{
+    margin:0;
+    font-family:'Merriweather',Arial;
+    background-image: url(Mountain\ 1.jpg);
+    height:1000px;
+    text-align: center;
+}
+h1{
+    margin-top: 3px;
+    font-family:'Sacramento', Arial;
+}
+.top-container{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-family:'Montserrat',Arial;
+}
+.cap{
+    font-weight: bold;
+    margin-right:400px;
+}
+.cul{
+    font-weight:bold;
+    margin-left:400px;
+}
+.Man{
+    height:100px;
+    width:100px;
+}
+.Comp{
+    height:100px;
+    width:100px;
+    float:left;
+    margin-left:350px;
+}
+.Chef{
+    height:100px;
+    width:100px;
+    float:right;
+    margin-right:350px;
+}
+hr{
+    width:1000px;
+    border:dotted 2px;
+    border-bottom:none;
+}
+.footer-link{
+    color:aqua;
+    text-decoration: none;
+}
+.btn{
+    color:aqua;
+    text-decoration: none;
+}
+.copyright{
+    font-size:12px;
+}
+a:hover{
+    color:dodgerblue;
+}
